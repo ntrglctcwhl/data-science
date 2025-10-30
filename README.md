@@ -7,6 +7,7 @@ Data Science Portfolio
 nsrinivasan@berkeley.edu
 
 Masters in Data Science (in progress - expected Winter 2026)
+
 Univeristy of California, Berkeley
 
 Coursework Completed:
