@@ -8,13 +8,13 @@ The founder of AGM was a sous chef in a 5-star restaurant, named Joy, who had wo
 
 Joy noticed that most young, single professionals tended to:
 
-Eat out frequently, with a mix of mostly casual dining, with some fast food, and occasional 5-star restaurants
+- Eat out frequently, with a mix of mostly casual dining, with some fast food, and occasional 5-star restaurants
 
-Order delivery at home or work
+- Order delivery at home or work
 
-Take out for home or work
+- Take out for home or work
 
-Buy frozen pre-made meals and microwave them at home
+- Buy frozen pre-made meals and microwave them at home
 
 Joy also noticed that all of these options were typically not very healthy.
 
@@ -38,13 +38,13 @@ Together with the data science team, you worked out a list of high priority data
 
 The data science team has been working with the business side to come up with some business questions that will need some queries written against the sales database to help them answer:
 
-Sales Related Queries
+- Sales Related Queries
 
-Customer Related Queries
+- Customer Related Queries
 
-Meal Related Queries
+- Meal Related Queries
 
-Holiday Related Query
+- Holiday Related Query
 
 The data science team would like to see an example of a data visualization using Python from data in a Pandas dataframe containing data from an SQL query.  They are familiar with other data visualization tools, but not with using Python, and they want to see a good example.
 
