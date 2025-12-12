@@ -16,3 +16,7 @@ Coursework Completed:
 - Statistics for Data Science
 - Fundamentals of Data Engineering 
 - Applied Machine Learning
+
+In Progress:
+- Fundamentals of Generative Artificial Intelligence 
+- Machine Learning Systems Engineering
